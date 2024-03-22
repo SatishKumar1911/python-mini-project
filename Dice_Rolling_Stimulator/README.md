@@ -18,7 +18,7 @@ python dice_stimulator.py
 
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/nduongthucanh/python-mini-project/blob/main/IMG/ds.gif" width=70% height=70%>
+
 
 ## 🤖 Author
 [Satish Kumar](https://github.com/SatishKumar1911)
